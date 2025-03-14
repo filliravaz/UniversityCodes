@@ -1,0 +1,4 @@
+﻿  babbonatale.c
+C:\Users\filli\Documents\GitHub\UniversityCodes\OLJ-BabboNatale\babbonatale.c(19,33): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\filli\Documents\GitHub\UniversityCodes\OLJ-BabboNatale\babbonatale.c(27,29): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  OLJ-BabboNatale.vcxproj -> C:\Users\filli\Documents\GitHub\UniversityCodes\OLJ-BabboNatale\x64\Debug\OLJ-BabboNatale.exe
